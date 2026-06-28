@@ -1,0 +1,1 @@
+A real-time chat application built with React.js and FastAPI, powered by WebSockets for instant bidirectional messaging. Supports multiple users, live message broadcasting, and a clean responsive UI. Built to learn full-stack development and WebSocket protocol fundamentals.
